@@ -2,8 +2,12 @@
 public class MainProgram {
 
 	public int value = 1; 
+<<<<<<< HEAD
 	public int secondValue = 2; 
-
+=======
+	public int trueValue = 2; 
+>>>>>>> 4ab2a63eb5e9856098b998d85d51a97e07f9436d
+	
 	 public static void main(String[] args)
 	{
 		 
