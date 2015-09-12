@@ -1,0 +1,13 @@
+
+public class MainProgram {
+
+	public int value = 1; 
+	public int secondvalue = 2; 
+	
+	 public static void main(String[] args)
+	{
+		 
+		System.out.println("hey"); 
+	}
+	
+}
